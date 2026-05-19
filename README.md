@@ -33,8 +33,7 @@ discussions around therapy and help-seeking behaviour in online manosphere space
 
 ## Dataset
 Comments collected via YouTube Data API v3 from 10 red pill and masculinity-
-related videos (May 2026). Raw data not included in this repository.
-
+related videos (May 2026).
 ## Note
 API keys have been removed from the notebook. To replicate data collection, 
 add your own YouTube Data API key as an environment variable:
